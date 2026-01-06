@@ -93,7 +93,7 @@
             Thanks for seeing this account!
         </p>
 
-        <a href="https://www.youtube.com" target="_blank" class="btn">
+        <a href="https://youtube.com/@wriddhijdas?si=QPpshZp32gqVNCdO" target="_blank" class="btn">
             ▶ Find me on YouTube
         </a>
 
